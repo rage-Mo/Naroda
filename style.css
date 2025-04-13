@@ -1,0 +1,272 @@
+#home {
+  background-color: black;
+  padding-bottom: 1cm;
+  margin-left:-1cm;
+  margin-right:-1cm;
+  margin-top:-1cm;
+  padding-top: 2cm;
+  padding-bottom: 2cm;
+  height: 5mm;
+  position : auto;
+   width : 1500px;
+ }
+
+#wtf {
+    height : 700px;
+    width :600px;
+ }
+
+
+.topmenu {
+  color: lightgray;
+  margin: 10px;
+  padding: 20px;
+  font-size: 20px;
+  text-decoration:none;
+}
+
+li{
+  color: SteelBlue;
+}
+
+ul{
+ color : silver;
+ font-style : italic;
+}
+
+
+
+
+.topmenu:hover {
+  color: white;
+  font-weight: bolder;
+  text-decoration: underline;
+
+}
+
+.topdiv {
+  float: right;
+  padding-right: 1cm;
+}
+
+.profile_name {
+  float: left;
+  padding-left: 2cm;
+  color : White;
+  font-size: 30px;
+  font-style: bold;
+  
+}
+
+.profile_name .contact_info {
+  font-size: 15px;
+  font-style: italic;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.contact_info img {
+  width:25px;
+  margin-right: 10px;
+  float:left;
+}
+
+.ser{
+
+ background-color : white;
+ height :500px;
+ width : 1400px;
+  background-image : url("bvc.jpg");
+}
+
+.ser1{
+
+ background-color : white;
+ height :500px;
+ width : 1400px;
+  background-image : url("wm.jpg");
+}
+
+#banner1{
+ height : 600px;
+ width : 1400px;
+ background-color : lightblue;
+ background-image : url("cc.gif");
+}
+
+.container1{
+  width : 100px;
+
+}
+
+
+.col {
+  outline-style: groove;
+  width : 200px;
+   border-radius: 5px;
+}
+
+.row {
+ width : 600px;
+}
+
+#card1 {
+margin : -80px;
+margin-left : 300px;
+}
+
+
+#cardx {
+height : 390px;
+width : 300px;
+margin-left : 10px;
+margin : -10px;
+}
+
+
+#cardxv {
+height : 390px;
+width : 300px;
+margin-left : 10px;
+margin : -10px;
+}
+
+
+#card1xv {
+height : 390px;
+width : 300px;
+margin : -300px;
+margin-left : 400px;
+}
+
+
+#card2xv {
+height : 390px;
+width : 300px;
+margin : -450px;
+margin-left : 1000px;
+}
+
+
+
+#card1x {
+height : 390px;
+width : 300px;
+margin : -300px;
+margin-left : 100px;
+}
+
+
+
+#card2x {
+height : 390px;
+width : 300px;
+margin : -450px;
+margin-left : 1000px;
+}
+
+
+
+.text{
+float: left;
+  width: 500px;
+  height : 400px;
+  margin-left : -500px;
+
+}
+
+
+#carouselExampleDark{
+  margin-left : 800px;
+  height : 400px;
+  width : 500px;
+}
+
+
+h1{
+ text-align : center;
+ height : 15%;
+}
+
+p{
+ color : black;
+}
+
+hr.one {
+  border: 3px solid SteelBlue;
+}
+
+
+
+.icon{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+
+}
+
+
+.righttb {
+  float: left;
+  width: 500px;
+  height : 400px;
+  margin-left : 60px;
+}
+
+.innerright {
+  width :350px;
+  height : 175px;
+  float : center;
+}
+
+#but {
+ margin:300px;
+ margin-left:150px;
+ height: 60px;
+ width : 250px;
+ 
+}
+
+#jum {
+ height : 100px;
+}
+
+#jum1 {
+ height : 200px;
+}
+
+#bag {
+background-color : teal;
+}
+
+#jum2 {
+ height : 10px;
+}
+
+.footer{
+ background-color : black;
+ height:200px;
+}
+
+
+.sc {
+  width :350px;
+  height : 175px;
+  float : left;
+  margin-left : 300px;
+}
+
+.cu {
+ margin : 10px;
+ float  : left; 
+ height: 2px;      
+}
+
+
+.foot{
+ text-align : center;
+}
+
+
